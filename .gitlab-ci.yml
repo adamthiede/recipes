@@ -6,6 +6,7 @@ image: python:alpine
 pages:
   stage: deploy
   script:
+    - apk add discount
     - echo "The site will be deployed to $CI_PAGES_URL"
     - ./build.py
     - mkdir -p public
