@@ -21,14 +21,13 @@
 
 # Steps
 
-### Dough
-
 - In a large bowl, whisk milk, butter, and sugar
 - Sprinkle yeast over top, let sit for 1 min.
 - Stir. Let sit for 10 minutes somewhere warm.
 - Add 4 cups of flour. Stir into wet dough.
 - Cover with cling film and let sit for 1 hour to rise in a warm place.
-- Butter some pans.
+- Butter some pans
+- Mix filling ingredients together
 - preheat oven to 340F
 - Add remaining flour to dough
 - Add baking powder and salt
@@ -36,5 +35,5 @@
 - Roll out into rectangular shape
 - Spread Filling
 - roll and cut
-- put in a pan and freeze for up to 3 monhts, or let proof 34-45 minutes
+- put in a pan and freeze for up to 3 monhts, or let proof 30-45 minutes
 - Bake 25-30 minutes
