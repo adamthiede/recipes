@@ -21,7 +21,7 @@ rfoot = open("templates/recipe_foot.html", "r")
 rfoot_html = rfoot.read().strip()
 rfoot.close()
 
-src_dir = "src"
+src_dir = "source"
 gen_dir = "recipes"
 
 if not os.path.exists(gen_dir):
