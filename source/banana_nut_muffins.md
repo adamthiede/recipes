@@ -8,13 +8,11 @@
 - 1/2 tsp cinnamon
 - 1/4 tsp nutmeg
 - pinch of salt
-
 - 1/4 cup vegetable oil
 - 1 egg
 - 1 tsp vanilla
 - 2 tbsp milk
 - 2 or 3 bananas
-
 - nuts of your choosing
 
 ## Steps
