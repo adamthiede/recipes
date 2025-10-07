@@ -1,6 +1,5 @@
 body {
     font-family: system-ui, sans-serif;
-    font-size: 1.25rem;
     line-height: 1.5;
     max-width: min(70ch, 100% - 4rem);
     margin-inline: auto;
