@@ -1,37 +1,13 @@
 body {
-    font-family: sans-serif;
-    text-align: left;
-    max-width: 768px;
-    margin: 0 auto;
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    max-width: min(70ch, 100% - 4rem);
+    margin-inline: auto;
 }
-
-.grid {
-    padding: 10px;
-    display: grid;
-    column-gap: 10px;
-    row-gap: 10px;
-}
-
-.machine {
-    padding: 10px;
-}
-
-.touches-no {
-    color:green;
-}
-
-.touches-yes {
-    color:red;
-}
-
-.machine-img {
-    max-width:150px;
-    border 1px solid black;
-    border-radius: 5px;
-}
-
-@media (prefers-color-scheme: dark) {
-}
-
-@media (prefers-color-scheme: light) {
+img,
+svg,
+video {
+    max-width: 100%;
+    display: block;
 }
