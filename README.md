@@ -16,3 +16,7 @@ Markdown is easier to write for most people than HTML. So this converts recipes 
 ## License
 
 Python code is AGPL, recipes are CC0
+
+## Forking
+
+If you want to do this yourself, just edit the head and foot templates, and deploy to github or gitlab. I've included a CI workflow for both.
