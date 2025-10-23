@@ -12,6 +12,7 @@ pages:
     - mkdir -p public
     - mv style.css public/
     - mv index.html public/
+    - mv favicon* public/
     - mv recipes/ public/
     - ls -l public/
     - cat public/style.css
