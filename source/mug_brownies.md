@@ -17,5 +17,5 @@ Brownies you can make in a mug in the microwave.
 ## Steps
 
 - combine dry ingredients, stir
-- add wet ingredients and stir until batter-y
-- microwave 30 seconds to 1 minute.
+- add wet ingredients and stir until batter-y. It will be more runny than "regular" batter.
+- microwave for 1 minute.
