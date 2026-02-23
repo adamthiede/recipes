@@ -4,7 +4,7 @@ Brownies you can make in a mug in the microwave.
 
 ## Ingredients
 
-- 3 tbsp granulated sugar
+- 1 - 2 tbsp granulated sugar
 - 3 tbsp flour
 - 1 1/2 tbsp unsweetened cocoa powder
 - pinch of salt
